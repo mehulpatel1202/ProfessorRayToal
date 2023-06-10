@@ -1,2 +1,0 @@
-# ProfessorRayToal
-Assignment submission
